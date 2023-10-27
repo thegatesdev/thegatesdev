@@ -1,4 +1,4 @@
-![banner](https://github.com/thegatesdev/thegatesdev/assets/69715898/3ecb2f0f-fd56-40b4-8802-a428958f4df3)
+![Profile Banner](https://github.com/thegatesdev/thegatesdev/assets/69715898/4298a70f-0e93-4a18-b789-1f2d52587942)
 
 *Hello there!*
 
