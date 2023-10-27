@@ -4,17 +4,17 @@
 
 # About
 
-I'm usually called Tim.
-Currently, I am studying for Software Developer. However, anything to do with computers has had my interest for years.
+Usually called Tim around here. Scarily generic.
+I am currently **studying** for Software Developer.
 
 # Activities
 
 Things I like to do in my free time:
-- **Code**; mostly in Java (for Minecraft Java edition), but also a bit of web development.
-- **Play games**; Minecraft, and other random games I come across.
-- **Draw**; Digital art, cartoon / anime style.
+- I like to **code** in Java, related to the Minecraft game, and also do a bit of web development.
+- When my energy runs out, I'll play some **games** including Minecraft, and other random games I come across.
+- When I'm feeling particularly creative, I'll do some **digital art**, usually in cartoon / anime style.
 
-My current active project is a Minecraft server network called **The Witheronia Network**.
+My current active coding project is a Minecraft server network called **The Witheronia Network**.
 
 # Contact
 
