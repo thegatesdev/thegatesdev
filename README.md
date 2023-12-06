@@ -15,7 +15,7 @@ Things I like to do in my free time:
 - When my energy runs out I'll play some **games** including Minecraft and other random games I come across.
 - When I'm feeling particularly creative I'll do some **digital art**, usually in cartoon / anime style.
 
-My current active coding project is the **The Witheronia Network**, a Minecraft minigame and RPG network.
+My current active coding project is **The Witheronia Network**, a Minecraft minigame and RPG network.
 
 # Socials
 
