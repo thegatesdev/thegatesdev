@@ -19,4 +19,4 @@ My current active coding project is **The Witheronia Network**, a Minecraft mini
 
 # Socials
 
-![thegates Discord](https://img.shields.io/badge/thegates-test?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%23060514&color=%2378FF1E)
+![thegates Discord](https://img.shields.io/badge/thegatesdev-discord?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%23060514&color=%2378FF1E)
