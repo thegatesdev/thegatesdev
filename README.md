@@ -1,5 +1,3 @@
-[![Profile Banner](https://github.com/user-attachments/assets/d18da1f4-4c5e-478d-9b23-84b078e22ce7)](#)
-
 # Hello there!
 
 I am usually called Tim around here. Scarily generic, I know.
