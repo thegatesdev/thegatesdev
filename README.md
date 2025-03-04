@@ -1,21 +1,22 @@
-# Hello there!
+### Hello there!
 
 I am usually called Tim around here. Scarily generic, I know.
 
+# Overview
+
 I am currently **studying** for Software Developer.
 
-# Activities
+In my free time I like to **code** in Java and TypeScript, often related to Minecraft.
+My favourite web framework is [Astro](https://astro.build/).
+When my energy runs out, I'll play some **games** including Minecraft and any other I come across.
+When I'm feeling particularly creative, I'll practice my digital **drawing** skills.
 
-Things I like to do in my free time:
-- I like to **code** in Java, related to the Minecraft game, or in any other language for game and web development.
-- When my energy runs out I'll play some **games** including Minecraft and other random games I come across.
-- When I'm feeling particularly creative I'll do some **digital art**, usually in cartoon / anime style.
+# Current Activities
 
-# Coding Projects
-
-- **The Witheronia Network**, a Minecraft minigame and RPG network *that is way too ambitious*.
-- **Maple**, a parser and data structure *for JSON and the like*.
-- Other **random projects** not limited to C maze generation, utility apps and Minecraft plugins.
+- 💻 Designing and building a web app for managing Minecraft mods, resource packs and data packs.
+- 🇳🇱  Keeping the [BookStack](https://www.bookstackapp.com/) Dutch translation up-to-date.
+- 🔁 Committing to Minecraft related projects, updating them to new versions or improving the code.
+- 🤖 Studying AI and it's implications.
 
 # Socials
 
