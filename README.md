@@ -11,10 +11,8 @@ My favourite web framework is [Astro](https://astro.build/).
 When my energy runs out, I'll play some **games** including Minecraft and any other I come across.
 When I'm feeling particularly creative, I'll practice my digital **drawing** skills.
 
-# Current Activities on GitHub
+# Current Activities
 
-- 💻 Designing and building a web app for managing Minecraft mods, resource packs and data packs.
-- 🟩 Recreating or upgrading cool Minecraft plugins and mods.
 - 🇳🇱  Keeping the [BookStack](https://www.bookstackapp.com/) Dutch translation up-to-date.
 - 🤖 Researching and discussing Machine Learning.
 
